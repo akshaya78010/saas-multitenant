@@ -1,0 +1,11 @@
+{
+  "name": "saas-multitenant",
+  "version": "1.0.0",
+  "description": "Multi-tenant SaaS application for project and task management",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}
+
